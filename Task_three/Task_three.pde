@@ -5,4 +5,4 @@ int additionResult;
 //3D
 float divisionResult;
 //3,E
-String mesageToUser = ("Pay us or we break your kneecaps :)");
+String mesageToUser;
